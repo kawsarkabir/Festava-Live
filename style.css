@@ -226,3 +226,45 @@
 
 }
 /* ============= plan section end ============== */
+
+/* =========== contact section start ============ */
+.contact-section{
+    padding: 100px;
+}
+.contact-section h1{
+    text-align: center;
+    font-size: 50px;
+}
+ 
+ 
+.contat-form {
+    background: #fff;
+    box-shadow: 1px 1px 10px #dcdcdc;
+    width: 70%;
+    margin: 0px auto;
+    padding: 80px;
+}
+.contat-form input{
+    padding:13px;
+    /* border-radius: 5px; */
+}
+#fullname{
+    width: 48%;
+    margin-right: 3%;
+}
+#email{
+    width: 48%;
+}
+#company{
+    width: 100%;
+    margin: 20px 0px;
+}
+#msg{
+    width: 100%;
+}
+#send-msg{
+    background: #ee5007;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+}
