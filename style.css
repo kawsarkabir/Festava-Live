@@ -267,4 +267,28 @@
     color: #fff;
     border-radius: 10px;
     border: none;
+    position: relative;
+    left: 36%;
+    top: 20px;
+}
+/* ============ contact section done =========== */
+
+/* ============ fotter section start =========== */
+.footer{
+    background: #ee5007;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+}
+.footer h1{
+    font-size: 40px;
+}
+.footer-icon ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 10px;
+    
+    
 }
